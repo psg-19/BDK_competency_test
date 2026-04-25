@@ -1,4 +1,8 @@
 fn main() {
     let name = "Pratush";
-    println!("Hello, {} here!!!", name);
+    let age = 22;
+
+
+
+    println!("Hello, {} here!!!, I am {} years old!!!", name, age);         
 }
